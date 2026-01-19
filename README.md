@@ -30,6 +30,9 @@ After installing the claude-code-skills plugin, you can use skills like:
 - `ui-designer` - UI design system extraction from mockups
 - `markdown-tools` - Document conversion tools
 - `qa-expert` - QA testing infrastructure
+- `youtube-downloader` - YouTube video/audio downloads
+- `cli-demo-generator` - CLI demo generation (great for documentation)
+- `mermaid-tools` - Diagram generation
 
 ## Installation
 
