@@ -11,12 +11,22 @@ This repository serves as a plugin marketplace for Claude Code, providing a cura
 ### Claude Code Skills
 
 30+ production-ready skills for enhanced development workflows, including:
+- **GitHub Operations** - Manage repositories, issues, and pull requests
+- **PPT Creator** - Professional presentations with data visualization
+- **Teams Channel Post Writer** - Teams communication for knowledge sharing
 - Development operations (GitHub integration, documentation conversion)
 - Content creation (presentations, diagrams, video downloads)
 - Development support (QA testing, prompt optimization, iOS development)
 - Infrastructure tools (Cloudflare diagnostics, design system extraction)
 
 **Source:** https://github.com/daymade/claude-code-skills
+
+#### Featured Skills
+
+After installing the claude-code-skills plugin, you can use skills like:
+- `github-ops` - GitHub operations for managing repositories
+- `ppt-creator` - Professional presentations with data visualization
+- `teams-channel-post-writer` - Teams communication for knowledge sharing
 
 ## Installation
 
