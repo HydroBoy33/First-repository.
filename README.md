@@ -27,6 +27,9 @@ After installing the claude-code-skills plugin, you can use skills like:
 - `github-ops` - GitHub operations for managing repositories
 - `ppt-creator` - Professional presentations with data visualization
 - `teams-channel-post-writer` - Teams communication for knowledge sharing
+- `ui-designer` - UI design system extraction from mockups
+- `markdown-tools` - Document conversion tools
+- `qa-expert` - QA testing infrastructure
 
 ## Installation
 
