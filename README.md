@@ -34,6 +34,12 @@ After installing the claude-code-skills plugin, you can use skills like:
 - `cli-demo-generator` - CLI demo generation (great for documentation)
 - `mermaid-tools` - Diagram generation
 
+### Marketing Skills
+
+Marketing and content strategy tools for Claude Code, designed to enhance your marketing workflows with AI-powered capabilities.
+
+**Source:** https://github.com/coreyhaines31/marketingskills
+
 ## Installation
 
 To use plugins from this marketplace:

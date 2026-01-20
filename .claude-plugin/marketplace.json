@@ -16,6 +16,14 @@
         "source": "url",
         "url": "https://github.com/daymade/claude-code-skills"
       }
+    },
+    {
+      "name": "marketingskills",
+      "description": "Marketing and content strategy tools for Claude Code",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/coreyhaines31/marketingskills"
+      }
     }
   ]
 }
